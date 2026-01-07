@@ -19,7 +19,7 @@ redirect_from:
 
 Exploring secure and trustworthy AI, from deepfake detection to robust large language models.
 
-Based in Qingdao, China. 2nd-year Ph.D., School of Cyber Science and Technology at Shandong University.
+Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology at Shandong University.
 
 **Research Interests:**
 - **Trustworthy Machine Learning**: Researching safety, robustness, and privacy across generative models and LLM agents.
@@ -44,7 +44,7 @@ Based in Qingdao, China. 2nd-year Ph.D., School of Cyber Science and Technology 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/crossriskeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.12345)
+[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968)
 
 **Xiangtao Meng**, Tianshuo Cong, Li Wang, Wenyu Chen, Zheng Li✉, Shanqing Guo✉, Xiaoyun Wang✉
 
@@ -55,10 +55,10 @@ Based in Qingdao, China. 2nd-year Ph.D., School of Cyber Science and Technology 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/errortrace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space](https://arxiv.org/abs/2509.12345)
+[ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space](https://neurips.cc/virtual/2025/loc/san-diego/poster/120038)
 
 Chuanchao Zang, **Xiangtao Meng**, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Qi, Zheng Li, Shanqing Guo
 
@@ -69,72 +69,74 @@ Chuanchao Zang, **Xiangtao Meng**, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Q
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/safepatch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org/abs/2508.12345)
+[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org/abs/2508.21099)
 
 **Xiangtao Meng**, Yingkai Dong, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
 
 **arXiv** · T2I Safety Defense
 
-[**Paper**](https://arxiv.org/abs/2508.12345)
+[**Paper**](https://arxiv.org/abs/2508.21099)
 - Safety patch for mitigating unsafe content in text-to-image generation models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/dcmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2508.12345)
+[DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2509.06026)
 
 Xinyu, **Xiangtao Meng✉**, Yingkai Dong, Zheng Li✉, Shanqing Guo✉
 
 **CCS** · RAG Security
 
-[**Paper**](https://www.sigsac.org/ccs/CCS2025/)
+[**Paper**](https://arxiv.org/abs/2509.06026)
 - Differential calibration membership inference against RAG.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2025</div><img src='images/fuzz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fuzz-testing meets LLM-based agents: An automated and efficient framework for jailbreaking text-to-image generation models](https://arxiv.org/abs/2503.12345)
+[Fuzz-testing meets LLM-based agents: An automated and efficient framework for jailbreaking text-to-image generation models](https://arxiv.org/abs/2408.00523)
 
 Yingkai Dong, **Xiangtao Meng**, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
 
 **IEEE S&P** · Adversarial Testing
 
-[**Paper**](https://www.ieee-security.org/TC/SP2025/)
+[**Paper**](https://arxiv.org/abs/2408.00523)
 - Automated framework for jailbreaking text-to-image generation models.
 </div>
 </div>
 
 ## 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2024</div><img src='images/ava.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection](https://arxiv.org/abs/2403.12345)
+[AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection](https://arxiv.org/abs/2312.08675)
 
 **Xiangtao Meng**, Li Wang, Shanqing Guo✉, Lei Ju, Qingchuan Zhao
 
 **IEEE S&P** · Deepfake Attack
 
-[**Paper**](https://www.ieee-security.org/TC/SP2024/) [**Code**](https://github.com)
+[**Paper**](https://arxiv.org/abs/2312.08675) [**Code**](https://github.com)
 - Inconspicuous attribute variation-based adversarial attack bypassing deepfake detection.
 </div>
 </div>
 
-- [DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models](https://arxiv.org/abs/2403.12345), Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉, **ACM TOPS** · Benchmark CCF B
+- [DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models](https://dl.acm.org/doi/10.1145/3634914), Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉, **ACM TOPS** · Benchmark CCF B
 
 # 🎖 Honors and Awards
 - *2024.11* Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection.
 
 # 📖 Education
-- *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.
-- *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).
+- *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
+  Advisor: **Xiaoyun Wang**
+- *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
+  Advisor: **Shanqing Guo**
 
 # 👔 Academic Services
 - *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
