@@ -26,6 +26,12 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 - **Deepfake Forensics**: Building attacks and defenses for facial forgery detection in practical pipelines.
 - **Secure LLM Systems**: Designing evaluation frameworks that expose risk interactions and support safer deployments.
 
+# 📖 Education
+- *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
+  Advisor: [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
+- *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
+  Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
+
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉 Featured by MIT Technology Review China - Media coverage of our latest LLM defense study.
@@ -36,6 +42,15 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 - *2025.08*: &nbsp;🎉 DCMI accepted at CCS 2025 - Differential calibration membership inference against RAG.
 - *2025.03*: &nbsp;🎉 Fuzz-testing meets LLM-based agents accepted at IEEE S&P 2025 - Automated framework for jailbreaking text-to-image generation models.
 - *2024.11*: &nbsp;🏆 Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection. 
+
+
+# 🎖 Honors and Awards
+- *2024.11* Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection.
+
+
+# 👔 Academic Services
+- *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
+
 
 # 📝 Publications 
 
@@ -140,15 +155,3 @@ Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉
 - A unified evaluation platform for facial deepfake and detection models.
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- *2024.11* Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection.
-
-# 📖 Education
-- *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
-  Advisor: [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
-- *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
-  Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
-
-# 👔 Academic Services
-- *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
