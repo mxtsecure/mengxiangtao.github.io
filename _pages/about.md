@@ -127,16 +127,28 @@ Yingkai Dong, **Xiangtao Meng**, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
 </div>
 </div>
 
-- [DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models](https://dl.acm.org/doi/10.1145/3634914), Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉, **ACM TOPS** · Benchmark CCF B
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOPS</div><img src='images/deepfaker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models](https://dl.acm.org/doi/10.1145/3634914)
+
+Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉
+
+**ACM TOPS** · Benchmark CCF B
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3634914)
+- A unified evaluation platform for facial deepfake and detection models.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11* Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection.
 
 # 📖 Education
 - *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
-  Advisor: **Xiaoyun Wang**
+  Advisor: [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
 - *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
-  Advisor: **Shanqing Guo**
+  Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
 
 # 👔 Academic Services
 - *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
