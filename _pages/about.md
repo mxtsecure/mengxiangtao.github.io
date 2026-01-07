@@ -17,42 +17,124 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Exploring secure and trustworthy AI, from deepfake detection to robust large language models.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Based in Qingdao, China. 2nd-year Ph.D., School of Cyber Science and Technology at Shandong University.
+
+**Research Interests:**
+- **Trustworthy Machine Learning**: Researching safety, robustness, and privacy across generative models and LLM agents.
+- **Deepfake Forensics**: Building attacks and defenses for facial forgery detection in practical pipelines.
+- **Secure LLM Systems**: Designing evaluation frameworks that expose risk interactions and support safer deployments.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉 Featured by MIT Technology Review China - Media coverage of our latest LLM defense study.
+- *2025.10*: &nbsp;📄 Preprint: From Defender to Devil? - Investigating unintended risk interactions introduced by LLM defenses.
+- *2025.09*: &nbsp;🎉 ErrorTrace accepted at NeurIPS 2025 (spotlight) - Black-box traceability based on model family error space.
+- *2025.09*: &nbsp;🤝 Industry collaboration launched - Joint research project on LLM security testing and risk assessment with Topsec.
+- *2025.08*: &nbsp;📄 Preprint: Safe-Control - Safety patch for mitigating unsafe content in text-to-image generation models.
+- *2025.08*: &nbsp;🎉 DCMI accepted at CCS 2025 - Differential calibration membership inference against RAG.
+- *2025.03*: &nbsp;🎉 Fuzz-testing meets LLM-based agents accepted at IEEE S&P 2025 - Automated framework for jailbreaking text-to-image generation models.
+- *2024.11*: &nbsp;🏆 Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.12345)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiangtao Meng**, Tianshuo Cong, Li Wang, Wenyu Chen, Zheng Li✉, Shanqing Guo✉, Xiaoyun Wang✉
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**arXiv** · LLM Safety Risk Analysis
+
+[**Paper**](https://arxiv.org/abs/2510.12345)
+- Investigating unintended risk interactions introduced by LLM defenses.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space](https://arxiv.org/abs/2509.12345)
+
+Chuanchao Zang, **Xiangtao Meng**, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Qi, Zheng Li, Shanqing Guo
+
+**NeurIPS (Spotlight)** · Model Provenance
+
+[**Link**](https://neurips.cc/Conferences/2025)
+- Black-box traceability based on model family error space.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org/abs/2508.12345)
+
+**Xiangtao Meng**, Yingkai Dong, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
+
+**arXiv** · T2I Safety Defense
+
+[**Paper**](https://arxiv.org/abs/2508.12345)
+- Safety patch for mitigating unsafe content in text-to-image generation models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation](https://arxiv.org/abs/2508.12345)
+
+Xinyu, **Xiangtao Meng✉**, Yingkai Dong, Zheng Li✉, Shanqing Guo✉
+
+**CCS** · RAG Security
+
+[**Paper**](https://www.sigsac.org/ccs/CCS2025/)
+- Differential calibration membership inference against RAG.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fuzz-testing meets LLM-based agents: An automated and efficient framework for jailbreaking text-to-image generation models](https://arxiv.org/abs/2503.12345)
+
+Yingkai Dong, **Xiangtao Meng**, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
+
+**IEEE S&P** · Adversarial Testing
+
+[**Paper**](https://www.ieee-security.org/TC/SP2025/)
+- Automated framework for jailbreaking text-to-image generation models.
+</div>
+</div>
+
+## 2024
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection](https://arxiv.org/abs/2403.12345)
+
+**Xiangtao Meng**, Li Wang, Shanqing Guo✉, Lei Ju, Qingchuan Zhao
+
+**IEEE S&P** · Deepfake Attack
+
+[**Paper**](https://www.ieee-security.org/TC/SP2024/) [**Code**](https://github.com)
+- Inconspicuous attribute variation-based adversarial attack bypassing deepfake detection.
+</div>
+</div>
+
+- [DEEPFAKER: A Unified Evaluation Platform for Facial Deepfake and Detection Models](https://arxiv.org/abs/2403.12345), Li Wang, **Xiangtao Meng**, Dan Li, Xuhong Zhang, Shouling Ji, Shanqing Guo✉, **ACM TOPS** · Benchmark CCF B
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.
+- *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👔 Academic Services
+- *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
