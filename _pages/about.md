@@ -26,12 +26,17 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 - **Deepfake Forensics**: Building attacks and defenses for facial forgery detection in practical pipelines.
 - **Secure LLM Systems**: Designing evaluation frameworks that expose risk interactions and support safer deployments.
 
+
+<span class='anchor' id='Education'></span>
+
 # 📖 Education
 - *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
   Advisor: [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
 - *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
   Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
 
+
+<span class='anchor' id='News'></span>
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉 Featured by MIT Technology Review China - Media coverage of our latest LLM defense study.
@@ -51,6 +56,8 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 # 👔 Academic Services
 - *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
 
+
+<span class='anchor' id='Publications'></span>
 
 # 📝 Publications 
 
@@ -137,7 +144,7 @@ Yingkai Dong, **Xiangtao Meng**, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
 
 **IEEE S&P** · Deepfake Attack
 
-[**Paper**](https://arxiv.org/abs/2312.08675) [**Code**](https://github.com)
+[**Paper**](https://arxiv.org/abs/2312.08675) [**Code**](https://github.com/AnonymousUserA/AVA)
 - Inconspicuous attribute variation-based adversarial attack bypassing deepfake detection.
 </div>
 </div>
