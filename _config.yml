@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Xiangtao Meng's Homepage"
 description              : "Xiangtao Meng's Homepage"
+baseurl                  : "/mengxiangtao.github.io"
+url                      : "https://mxtsecure.github.io"
 repository               : "mengxiangtao/mengxiangtao.github.io"
 google_scholar_stats_use_cdn : true
 
