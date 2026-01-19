@@ -72,7 +72,7 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 
 **arXiv** · LLM Safety Risk Analysis
 
-[**Paper**](https://arxiv.org/abs/2510.12345)
+[**Paper**](https://arxiv.org/abs/2510.07968)
 - Investigating unintended risk interactions introduced by LLM defenses.
 </div>
 </div>
