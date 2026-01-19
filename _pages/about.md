@@ -39,7 +39,7 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 <span class='anchor' id='News'></span>
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 Featured by MIT Technology Review China - Media coverage of our latest LLM defense study.
+- *2025.11*: &nbsp;🎉 Featured by [MIT Technology Review China](https://wap.mittrchina.com/news/detail/15426) - Media coverage of our latest Text-to-Image defense study.
 - *2025.10*: &nbsp;📄 Preprint: From Defender to Devil? - Investigating unintended risk interactions introduced by LLM defenses.
 - *2025.09*: &nbsp;🎉 ErrorTrace accepted at NeurIPS 2025 (spotlight) - Black-box traceability based on model family error space.
 - *2025.09*: &nbsp;🤝 Industry collaboration launched - Joint research project on LLM security testing and risk assessment with Topsec.
