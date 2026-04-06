@@ -39,11 +39,12 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 <span class='anchor' id='News'></span>
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper "Beyond the Safety Tax: Mitigating Unsafe Text-to-Image Generation via External Safety Rectification" are accepted by Findings of ACL 2026.
+- *2026.03*: &nbsp;📄 Preprint: "Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs"
 - *2025.11*: &nbsp;🎉 Featured by [MIT Technology Review China](https://wap.mittrchina.com/news/detail/15426) - Media coverage of our latest Text-to-Image defense study.
 - *2025.10*: &nbsp;📄 Preprint: From Defender to Devil? - Investigating unintended risk interactions introduced by LLM defenses.
 - *2025.09*: &nbsp;🎉 ErrorTrace accepted at NeurIPS 2025 (spotlight) - Black-box traceability based on model family error space.
 - *2025.09*: &nbsp;🤝 Industry collaboration launched - Joint research project on LLM security testing and risk assessment with Topsec.
-- *2025.08*: &nbsp;📄 Preprint: Safe-Control - Safety patch for mitigating unsafe content in text-to-image generation models.
 - *2025.08*: &nbsp;🎉 DCMI accepted at CCS 2025 - Differential calibration membership inference against RAG.
 - *2025.03*: &nbsp;🎉 Fuzz-testing meets LLM-based agents accepted at IEEE S&P 2025 - Automated framework for jailbreaking text-to-image generation models.
 - *2024.11*: &nbsp;🏆 Outstanding master's thesis - Recognized for thesis on robustness research for deepfake detection. 
@@ -60,6 +61,34 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 <span class='anchor' id='Publications'></span>
 
 # 📝 Publications 
+## 2026
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/safepatch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond the Safety Tax: Mitigating Unsafe Text-to-Image Generation via External Safety Rectification](https://arxiv.org/abs/2508.21099)
+
+**Xiangtao Meng**, Yingkai Dong, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
+
+**ACL 2026 Findings** · T2I Safety Defense
+
+[**Paper**](https://arxiv.org/abs/2508.21099)
+- Safety patch for mitigating unsafe content in text-to-image generation models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/triagefuzz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs](https://arxiv.org/abs/2603.23269)
+
+Wenyu Chen, Xiangtao Meng, Chuanchao Zang, Li Wang, Xinyu Gao, Jianing Wang, Peng Zhan, Zheng Li, Shanqing Guo
+
+**arXiv**
+
+[**Paper**](https://arxiv.org/abs/2603.23269)
+- Not All Tokens Are Created Equal
+</div>
+</div>
 
 ## 2025
 
@@ -91,19 +120,6 @@ Chuanchao Zang, **Xiangtao Meng**, Wenyu Chen, Tianshuo Cong, Zha Yaxing, Dong Q
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/safepatch.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](https://arxiv.org/abs/2508.21099)
-
-**Xiangtao Meng**, Yingkai Dong, Ning Yu, Li Wang, Zheng Li✉, Shanqing Guo✉
-
-**arXiv** · T2I Safety Defense
-
-[**Paper**](https://arxiv.org/abs/2508.21099)
-- Safety patch for mitigating unsafe content in text-to-image generation models.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/dcmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

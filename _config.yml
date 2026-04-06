@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangtao Meng's Homepage"
-description              : "Xiangtao Meng's Homepage"
+description              : "AI Safety & XAI"
 baseurl                  : "/mengxiangtao.github.io"
 url                      : "https://mxtsecure.github.io"
 repository               : "mengxiangtao/mengxiangtao.github.io"
