@@ -31,7 +31,7 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 
 # 📖 Education
 - *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
-  - Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en) && [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
+  - Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en) \& [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
   - Co-author: [**Zheng Li**](https://zhenglisec.github.io/)
 - *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
   - Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
@@ -82,7 +82,7 @@ Based in Qingdao, China. 3nd-year Ph.D., School of Cyber Science and Technology 
 
 [Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs](https://arxiv.org/abs/2603.23269)
 
-Wenyu Chen*, **Xiangtao Meng***, Chuanchao Zang, Li Wang, Xinyu Gao, Jianing Wang, Peng Zhan, Zheng Li, Shanqing Guo
+Wenyu Chen\\*, **Xiangtao Meng\\***, Chuanchao Zang, Li Wang, Xinyu Gao, Jianing Wang, Peng Zhan, Zheng Li, Shanqing Guo
 
 **arXiv**
 
