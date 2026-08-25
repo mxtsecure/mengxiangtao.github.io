@@ -145,6 +145,34 @@ Li Wang, Wenyu Chen, Xiangtao Meng, Zheng Li, Shanqing Guo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2607.23444v1/isolation1.png" alt="SPORE memory extraction threat model" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Isolated but Exposed: Persistence-Based Memory Extraction Attack on LLM Agents](https://arxiv.org/abs/2607.23444)
+
+Xinyu Gao, Wenyu Chen, **Xiangtao Meng**, Li Wang, Chuanchao Zang, Jianing Wang, Zheng Li, Shanqing Guo
+
+**arXiv** · LLM Agent Privacy
+
+[**Paper**](https://arxiv.org/abs/2607.23444)
+- Persistence-based memory extraction targeting tool-side data flows in LLM agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2605.14514v1/method.png" alt="ConflictEval evaluation framework" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Defenses at Odds: Measuring and Explaining Defense Conflicts in Large Language Models](https://arxiv.org/abs/2605.14514)
+
+**Xiangtao Meng**, Wenyu Chen, Chuanchao Zang, Xinyu Gao, Jianing Wang, Li Wang, Zheng Li, Shanqing Guo
+
+**arXiv** · LLM Defense Conflicts
+
+[**Paper**](https://arxiv.org/abs/2605.14514)
+- Measuring, explaining, and mitigating conflicts between sequentially deployed LLM defenses.
+</div>
+</div>
+
 ## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src="{{ '/images/crossriskeval.png' | relative_url }}" alt="CrossRiskEval framework overview" width="100%" loading="lazy" decoding="async"></div></div>
