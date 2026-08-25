@@ -7,10 +7,10 @@
 
 # Site Settings
 title                    : "Xiangtao Meng's Homepage"
-description              : "AI Safety & XAI"
+description              : "AI Safety & Security"
 baseurl                  : "/mengxiangtao.github.io"
 url                      : "https://mxtsecure.github.io"
-repository               : "mengxiangtao/mengxiangtao.github.io"
+repository               : "mxtsecure/mengxiangtao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangtao Meng"
   avatar           : "images/mxt.png"
-  bio              : "Xiangtao Meng's Homepage"
+  bio              : "Ph.D. Student at Shandong University"
   location         : "Qingdao, China"
   employer         :
   pubmed           : 
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "mxtsecure"
   google_plus      :
   keybase          :
   instagram        :
