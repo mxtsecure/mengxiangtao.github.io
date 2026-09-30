@@ -31,10 +31,10 @@ Based in Qingdao, China. I am a Ph.D. student at the School of Cyber Science and
 
 # 📖 Education
 - *2023.09 - Present*, Ph.D. Student, School of Cyber Science and Technology, Shandong University, Qingdao, China.  
-  - Supervisors: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en) and [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
-  - Co-supervisor: [**Zheng Li**](https://zhenglisec.github.io/)
+  - Advisors: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en) and [**Xiaoyun Wang**](https://www.ias.tsinghua.edu.cn/en/info/1059/1173.htm)
+  - Co-advisor: [**Zheng Li**](https://zhenglisec.github.io/)
 - *2020.09 - 2023.06*, Master's Degree, Shandong University (Thesis on robustness research for deepfake detection).  
-  - Supervisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
+  - Advisor: [**Shanqing Guo**](https://scholar.google.com/citations?user=zsoQa0cAAAAJ&hl=en)
 
 
 <span class='anchor' id='news'></span>
@@ -95,6 +95,7 @@ Based in Qingdao, China. I am a Ph.D. student at the School of Cyber Science and
 
 # 👔 Academic Services
 - *2027*, Program Committee Member for [**USENIX Security '27**](https://www.usenix.org/conference/usenixsecurity27)
+- *2027*, Reviewer for **ICLR 2027**
 - *2025*, Reviewer for **IEEE Transactions on Information Forensics and Security (TIFS)**
 
 
@@ -170,6 +171,62 @@ Xinyu Gao, Wenyu Chen, **Xiangtao Meng**, Li Wang, Chuanchao Zang, Jianing Wang,
 
 [**Paper**](https://arxiv.org/abs/2605.14514)
 - Measuring, explaining, and mitigating conflicts between sequentially deployed LLM defenses.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2609.00523v1/indirect.png" alt="PipePoison indirect memory poisoning attack overview" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents](https://arxiv.org/abs/2609.00523)
+
+Chuanchao Zang, Jianing Wang, Wenyu Chen, **Xiangtao Meng**, Li Wang, Xinyu Gao, Zheng Li, Shanqing Guo
+
+**arXiv** · PipePoison · LLM Agent Memory
+
+[**Paper**](https://arxiv.org/abs/2609.00523)
+- End-to-end optimization of indirect memory poisoning across agent memory stages.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2609.29697v1/weakness.png" alt="Initialization anchoring weakness in feedback-based agent planning" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding and Exploiting Initialization Anchoring Weakness in Feedback-Based Agent Planning](https://arxiv.org/abs/2609.29697)
+
+Chuanchao Zang, Jianing Wang, Wenyu Chen, **Xiangtao Meng**, Li Wang, Xinyu Gao, Peng Zhan, Zheng Li, Shanqing Guo
+
+**arXiv** · InitAnchor · Agent Planning Security
+
+[**Paper**](https://arxiv.org/abs/2609.29697)
+- Analyzing early-round anchoring weaknesses in feedback-based agent planning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2608.30177v1/stage-evaluation.png" alt="MemGauge stage-wise utility-risk evaluation" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding Stage-Wise Utility-Risk Trade-offs in LLM Agent Memory](https://arxiv.org/abs/2608.30177)
+
+Chuanchao Zang, Zijian Cao, **Xiangtao Meng**, Jianing Wang, Wenyu Chen, Xinyu Gao, Li Wang, Zheng Li, Shanqing Guo
+
+**arXiv** · MemGauge · LLM Agent Memory
+
+[**Paper**](https://arxiv.org/abs/2608.30177)
+- Evaluating how writing, management, and retrieval choices shape memory utility and risk.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src="https://arxiv.org/html/2608.30288v1/challenge.png" alt="ToolSiphon knowledge extraction attack overview" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Extracting Knowledge from Tools in LLM Agents](https://arxiv.org/abs/2608.30288)
+
+Chuanchao Zang, Jianing Wang, Wenyu Chen, **Xiangtao Meng**, Li Wang, Xinyu Gao, Yingkai Dong, Zheng Li, Shanqing Guo
+
+**arXiv** · ToolSiphon · LLM Agent Security
+
+[**Paper**](https://arxiv.org/abs/2608.30288)
+- A query-only attack that extracts knowledge exposed through tools used by LLM agents.
 </div>
 </div>
 
